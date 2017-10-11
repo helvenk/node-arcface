@@ -90,6 +90,10 @@ const faceModel = arcface.extractFeature(asvl, faces.rcFace[0], faces.lfaceOrien
 ```
 More see [test](https://github.com/lkspc/node-arcface/blob/master/test/index.js).
 
+## TODO
+
+`Face Tracking SDK` is in progress.
+
 ## License
 
 MIT
