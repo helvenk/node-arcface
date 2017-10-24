@@ -1,5 +1,5 @@
 # Node-ArcFace
-### Arcsoft Face Cognition Engine.
+### __NON-OFFICIAL__ Arcsoft Face Cognition Engine.
 
  [ArcFace](http://www.arcsoft.com.cn/ai/arcface.html) is a __Face Cognition Engine__, which contains __Face Detection__, __Face Recognition__ and __Face Tracking__. 
 
